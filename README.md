@@ -1,4 +1,4 @@
-# Cash Flow Forecast & Outflow Analytics Dashboard (Power BI)
+# Cash Flow Forecast & Analytics Dashboard (Power BI)
 
 This project is a Power BI dashboard built to analyze **weekly cash outflows**, compare **Actual vs Forecast** values, and calculate **forecast accuracy** for Accounts Payable (AP) and Accounts Receivable (AR).  
 It helps businesses understand their financial obligations, predict upcoming expenses, and monitor cash position week-by-week.
