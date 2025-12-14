@@ -4,15 +4,16 @@ This project is a Power BI dashboard built to analyze **weekly cash outflows**, 
 It helps businesses understand their financial obligations, predict upcoming expenses, and monitor cash position week-by-week.
 
 ---
-🎯 Business Objectives
+🎯 **Business Objectives**
 
-Track weekly cash movements across branches and accounts
+- Track weekly cash movements across branches and accounts
 
-Compare forecasted vs actual cash flows
+- Compare forecasted vs actual cash flows
 
-Quantify forecast accuracy to improve financial planning
+- Quantify forecast accuracy to improve financial planning
 
-Project ending cash balances to support budgeting and risk management
+- Project ending cash balances to support budgeting and risk management
+
 ---
 
 ## **Dataset Description**
