@@ -38,7 +38,7 @@ The dataset includes:
 ---
 
 ## 🧩 Data Modeling
-Built a star-schema Power BI data model with role-playing date dimensions to support weekly cash flow forecasting and accuracy analysis.
+Built a star-schema data model with role-playing date dimensions to support weekly cash flow forecasting and accuracy analysis.
 
 <img width="975" height="712" alt="image" src="https://github.com/user-attachments/assets/96f118c4-d945-4186-9553-3652a24b5019" />
 
