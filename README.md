@@ -6,13 +6,13 @@ It helps businesses understand their financial obligations, predict upcoming exp
 ---
  ## 🎯**Business Objectives**
 
-- Track weekly cash movements across branches and accounts
+- Track weekly cash inflows and outflows across branches and accounts
 
-- Compare forecasted vs actual cash flows
+- Compare actual vs forecast cash flows to identify variances
 
-- Quantify forecast accuracy to improve financial planning
+- Measure 1-week and 13-week forecast accuracy to improve planning
 
-- Project ending cash balances to support budgeting and risk management
+- Project ending cash balances to support budgeting and liquidity decisions
 
 ---
 
