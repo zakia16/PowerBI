@@ -85,7 +85,7 @@ Built a star-schema data model with role-playing date dimensions to support week
 ---
 
 ## **Dashboard Demo**
-<img width="1328" height="742" alt="image" src="https://github.com/user-attachments/assets/2db461b3-abea-418e-bd2a-764646f3a113" />
+<img width="1328" height="742" alt="image" src="https://github.com/user-attachments/assets/28983894-e7f5-4c4d-96fd-9894fd3a52d7" />
 
 
 
